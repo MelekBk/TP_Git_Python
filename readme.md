@@ -1,8 +1,8 @@
-# TP2 – Rédaction du fichier README.md
+# TP1 – assisant de revision
 
 ## Présentation
 
-Ce TP a pour objectif de créer un fichier **README.md** afin de documenter le projet Python développé lors du TP1. Le programme **main.py** constitue un assistant de révision qui a été amélioré progressivement grâce à Git et GitHub.
+on a  créer un fichier **README.md** afin de documenter le projet Python développé lors du TP1. Le programme **main.py** constitue un assistant de révision qui a été amélioré progressivement grâce à Git et GitHub.
 
 Le README permet à une autre personne de comprendre le projet, ses différentes versions, son fonctionnement et les commandes Git utilisées durant les travaux pratiques.
 
